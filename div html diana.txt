@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<style>
+		</style>
+	</head>
+	<body>
+		<div class="unu">
+			<h3>Prima sectiune</h3>
+			<p>Text pentru prima sect</p>
+	</div>
+	<div class="doi">
+		<h3>A doua sectiune<h3/>
+		<p>Text pentru sectiunea 2</p>
+	</div></body></html>
