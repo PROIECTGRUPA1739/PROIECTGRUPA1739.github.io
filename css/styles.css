@@ -11152,7 +11152,13 @@
 	}
 
 	@media (min-width: 760px) {
-	.preturi-title {
+	.preturi-section .preturi-title {
+		text-align: center;
+	}
+	}
+
+	@media (min-width: 150px) {
+	.preturi-section .preturi-title {
 		text-align: center;
 	}
 	}
